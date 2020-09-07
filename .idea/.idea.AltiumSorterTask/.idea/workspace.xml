@@ -8,14 +8,63 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f91a28-9c00-4f2c-99bd-93aba631f4a5" name="Default Changelist" comment="" />
+    <list default="true" id="f5f91a28-9c00-4f2c-99bd-93aba631f4a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/Entities/FileInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/FilePartSorter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/FilePartsMerger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/FileSplitter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/Utils/ItemComparer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/Utils/SpanHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/bin/Debug/netcoreapp3.1/AltiumSorter.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/bin/Debug/netcoreapp3.1/AltiumSorter.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/bin/Debug/netcoreapp3.1/AltiumSorter.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/obj/Debug/netcoreapp3.1/AltiumSorter.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AltiumSorter/obj/Debug/netcoreapp3.1/AltiumSorter.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AltiumSorterTask/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AltiumSorterTask/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AltiumSorterTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AltiumSorterTask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltiumSorter/AltiumSorter.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AltiumSorter/AltiumSorter.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltiumSorter/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AltiumSorter/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltiumSorter/obj/AltiumSorter.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AltiumSorter/obj/AltiumSorter.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltiumSorter/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AltiumSorter/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltiumSorter/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AltiumSorter/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltiumSorter/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AltiumSorter/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/1E0/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/CE/StringComparer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/286/TaskAwaiter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/135/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4F9572D3-4AC7-4113-A99F-02634FC7A109/7/CollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/3CF/ArraySortHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/BE/ReadOnlySpan.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AltiumSorter/FilePart.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/Entities/FileInfo.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/Entities/FilePart.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/Utils/SpanExtensions.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/Utils/SpanHelper.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/Utils/ItemComparer.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/Entities/ListPart.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/FileSplitter.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/appsettings.json" />
+        <option value="$PROJECT_DIR$/AltiumSorter/FilePartSorter.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/Program.cs" />
+        <option value="$PROJECT_DIR$/AltiumSorter/FilePartsMerger.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1h9YTxhTmwg2Is4OhEdm45rUTKY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,8 +73,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.42749658" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.41025642" />
   </component>
   <component name="RunManager">
     <configuration name="AltiumSorter" type="DotNetProject" factoryName=".NET Project">
@@ -56,13 +108,20 @@
       <option name="presentableId" value="Default" />
       <updated>1599424786758</updated>
       <workItem from="1599424810178" duration="1448000" />
+      <workItem from="1599426929388" duration="6284000" />
+      <workItem from="1599458038957" duration="22944000" />
+      <workItem from="1599496041628" duration="507000" />
+      <workItem from="1599496587436" duration="11021000" />
+      <workItem from="1599508540036" duration="2159000" />
+      <workItem from="1599511829280" duration="6661000" />
+      <workItem from="1599519106107" duration="336000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -144,14 +203,122 @@
         <entry key="3" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="459" height="464" key="DebuggerActiveHint" timestamp="1599516619934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="459" height="464" key="DebuggerActiveHint/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599516619934" />
+    <state width="1493" height="287" key="GridCell.Tab.0.bottom" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.0.center" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.center/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.0.left" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.left/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.0.right" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.right/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.1.bottom" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.1.center" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.center/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.1.left" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.left/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.1.right" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.right/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.2.bottom" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.2.center" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.2.center/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.2.left" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.2.left/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.2.right" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.2.right/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.3.bottom" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.3.bottom/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.3.center" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.3.center/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.3.left" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.3.left/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.3.right" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.3.right/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.4.bottom" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.4.bottom/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.4.center" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.4.center/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.4.left" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.4.left/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
+    <state width="1493" height="287" key="GridCell.Tab.4.right" timestamp="1599518576539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.4.right/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599518576539" />
     <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1599426793268">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599426793268" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1599499827909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824/1920.-120.1920.1040@0.0.1536.824" timestamp="1599499827909" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AltiumSorter/FilePartsMerger.cs</url>
+          <line>45</line>
+          <properties documentPath="C:\Users\gsmil\Desktop\Altium Sorter\AltiumSorterTask\AltiumSorter\FilePartsMerger.cs" initialLine="45">
+            <startOffsets>
+              <option value="1542" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1543" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -14,7 +14,7 @@ namespace AltiumSorter
         static async Task Main(string[] args)
         {
             var configuration = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json", true, true)
+                .AddJsonFile("appsettings.json")
                 .Build();
             
             var generatedFileName = configuration["GeneratedFilePath"];
@@ -26,7 +26,7 @@ namespace AltiumSorter
 
             var stopwatch = new Stopwatch();
             stopwatch.Start();
-            Console.WriteLine($"Start sorting...");
+            Console.WriteLine("Start sorting...");
 
             using var source = new CancellationTokenSource();
             var notSortedFileParts = Channel.CreateUnbounded<ListPart>(new UnboundedChannelOptions

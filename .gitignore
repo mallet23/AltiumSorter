@@ -1,2 +1,5 @@
 ﻿/AltiumSorterTask.sln
 temp/
+bin/
+obj/
+/packages/
